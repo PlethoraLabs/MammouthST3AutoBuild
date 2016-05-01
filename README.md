@@ -1,6 +1,12 @@
 # MammouthST3AutoBuild
 Sublime Text 3 plugin that automatically compiles .mammouth files to PHP upon Save
 
+## What is Mammouth?
+
+Mammouth is a small language that compiles into PHP, inspired by CoffeeScript. It's compiled to PHP code/files that you can run on your PHP server.
+
+More info [here](http://mammouth.wamalaka.com/).
+
 ## Installation procedure
 
 * Install Mammouth compiler
